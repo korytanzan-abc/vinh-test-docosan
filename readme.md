@@ -38,7 +38,7 @@ npm i
 
 ### Run
 
-android: 
+Android: 
 
 ``` 
 yarn android 
@@ -47,8 +47,8 @@ or
 ``` 
 npm run android 
 ```
-
-ios:
+\
+Ios:
 ``` 
 yarn ios 
 ```
