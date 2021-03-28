@@ -9,38 +9,60 @@
  react-native-linear-gradient for background linear gradient
  ```
 
-## Write script generate require images in folder ```/script/images.js``` to ```/src/assets/images
+## Write script generate require images in folder ```/script/images.js``` to ```/src/assets/images```
 
 ### Using script: in root project
-``` yarn images ```
+```
+yarn images
+```
 or 
-``` npm run images ```
+```
+npm run images 
+```
 ## Installation and run
 
 ### Installation
 Using yarn: 
-``` yarn ```
+``` 
+yarn 
+```
 
 Using npm:
-``` npm install ```
+``` 
+npm install 
+```
 or 
-``` npm i ```
+``` 
+npm i 
+```
 
 ### Run
 
 android: 
 
-``` yarn android ```
+``` 
+yarn android 
+```
 or 
-``` npm run android ```
+``` 
+npm run android 
+```
 
 ios:
-``` yarn ios ```
+``` 
+yarn ios 
+```
 or 
-``` npm run ios ```
+``` 
+npm run ios 
+```
 
 ## P.S: Using cli for format code
 
-``` yarn prettier:write ```
+``` 
+yarn prettier:write 
+```
 or 
-``` npm run prettier:write ```
+``` 
+npm run prettier:write 
+```
